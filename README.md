@@ -78,8 +78,6 @@ LinkedIn: linkedin.com/in/leonardjacobklein
 
 ## Screenshots
 
-## Screenshots
-
 ### Daily Briefing Email
 
 ![Daily Briefing](email-briefing.png)
