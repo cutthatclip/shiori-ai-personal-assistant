@@ -78,11 +78,16 @@ LinkedIn: linkedin.com/in/leonardjacobklein
 
 ## Screenshots
 
+## Screenshots
+
 ### Daily Briefing Email
-[image]
 
-### Apps Script Automation
-[image]
+![Daily Briefing](email-briefing.png)
 
-### Trigger Configuration
-[image]
+### OpenAI Integration
+
+![OpenAI Integration](openai-integration.png)
+
+### Automation Triggers
+
+![Automation Triggers](automation-triggers.png)
