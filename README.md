@@ -144,9 +144,6 @@ The OpenAI API converts structured schedule data into a concise and readable bri
 
 ![Automation trigger configuration](04-trigger-configuration.png)
 
-### Apps Script Executions
-
-![Apps Script executions](05-shiori-executions.png)
 
 ## Tech Stack
 
