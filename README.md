@@ -128,17 +128,26 @@ The OpenAI API converts structured schedule data into a concise and readable bri
 
 ## Screenshots
 
-### Daily Briefing Email
+### Daily Briefing Email — Part 1
 
-![Daily briefing email](daily-briefing.png)
+![Daily briefing email part 1](01-email-output.png)
 
-### OpenAI Integration
+### Daily Briefing Email — Part 2
 
-![OpenAI integration](openai-integration.png)
+![Daily briefing email part 2](02-email-output.png)
 
-### Automation Triggers
+### Shiori Workflow Logic
 
-![Automation triggers](automation-triggers.png)
+![Shiori workflow logic](03-shiori-brain.png)
+
+### Automation Trigger Configuration
+
+![Automation trigger configuration](04-trigger-configuration.png)
+
+### Apps Script Executions
+
+![Apps Script executions](05-shiori-executions.png)
+
 
 ## Tech Stack
 
@@ -225,13 +234,12 @@ The current MVP establishes the foundation for that larger system by proving tha
 
 | File | Description |
 |---|---|
-| `Code.gs` | Main Google Apps Script workflow |
-| `daily-briefing.png` | Example briefing email |
-| `openai-integration.png` | OpenAI integration screenshot |
-| `automation-triggers.png` | Apps Script trigger configuration |
+| `01-email-output.png` | Daily briefing email, part 1 |
+| `02-email-output.png` | Daily briefing email, part 2 |
+| `03-shiori-brain.png` | Core Shiori workflow logic |
+| `04-trigger-configuration.png` | Apps Script trigger configuration |
+| `05-shiori-executions.png` | Apps Script execution history |
 | `README.md` | Project documentation |
-
-Update the filenames in this section if your actual repository uses different names.
 
 ## Setup
 
